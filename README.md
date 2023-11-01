@@ -1,8 +1,5 @@
 ## Hello World! Nice to meet you 👋
-
-- 🔭 I’m currently working as a Python and C# programmer.
-- 🌱 I’m currently learning more about Python/Django and C#/EntityFramework and ASP.NET Core.
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning more about Python, C#/EntityFramework and ASP.NET Core.
 - ⚡ Interesting fact: developers do not write code, they resolve problems.
 
 <!--
