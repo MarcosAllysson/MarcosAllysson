@@ -1,21 +1,6 @@
 ## Hello World! Nice to meet you 👋
 - 🌱 I’m currently learning and working with Angular, C# and .NET.
-- ⚡ Interesting fact: developers do not write code, they solve problems.
-
-<!--
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">      
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcosAllysson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosAllysson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- ⚡ Interesting fact: developers do not write code, they solve problems
 
 ### Some stacks that I work/worked with: 
 <div style="display: inline_block">
